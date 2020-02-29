@@ -1,0 +1,71 @@
+*{
+	font-family: 'Tomorrow';
+	margin: 0;
+}
+.div-all{
+	height: 500vh;
+	background-color: #F2F5D8;
+}
+.line1{
+	background-color: #1D3E3F;
+	height: 20vh;
+}
+.div-text{
+	font-size: 70px;
+	color: #CDD0B9;
+	padding: 2vh;
+}
+.line2{
+	background-color: #498187;
+	height: 80vh;
+	clear: both;
+}
+.but{
+	background-color: #CDD0B9;
+	width: 10vw;
+	height: 12vh;
+	margin-top: 15vh;
+	outline: none;
+	margin-left: 11vw;
+	color: #1D3E3F;
+	font-size: 18px;
+}
+a{
+	text-decoration: none;
+}
+.line3{
+	height: 90vh;
+	clear: both;
+	background-color: #CDD0B9;
+
+}
+.div-block{
+	background-image: url('img1.jfif');
+	background-position:center;
+	background-size: cover;
+	width: 30vw;
+	height: 35vh;
+	float: left;
+	margin-left: 1vw;
+	margin-top: 2vh;
+}
+.div-fon:hover{
+	background-color: #00000099;
+}
+.d1{
+	margin-left: 3vw;
+}
+.t1{
+	margin-top: 5vh;
+}
+.div-fon{
+	background-color: #00000055;
+	width: 30vw;
+	height: 35vh;
+	color: orange;
+	text-align: center;
+	font-size: 20px;
+}
+p{
+	padding-top: 17vh;
+}
